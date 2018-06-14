@@ -5,4 +5,6 @@
 	* Reflecting Bear
 	* Page Rank
 * Course 2: [Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning)
+	* Backpropagation
+	* Fitting the distribution of height data
 * Course 3: [PCA](https://www.coursera.org/learn/pca-machine-learning)
