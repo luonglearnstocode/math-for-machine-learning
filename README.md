@@ -1,10 +1,14 @@
 # [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)
 * Course 1: [Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)
-	* Identifying special matrices
-	* Gram-Schmidt Process
-	* Reflecting Bear
-	* Page Rank
+	* [Identifying special matrices](http://nbviewer.jupyter.org/github/luonglearnstocode/math-for-machine-learning/blob/master/linear-algebra/IdentifyingSpecialMatrices.ipynb)
+	* [Gram-Schmidt Process](http://nbviewer.jupyter.org/github/luonglearnstocode/math-for-machine-learning/blob/master/linear-algebra/GramSchmidtProcess.ipynb)
+	* [Reflecting Bear](http://nbviewer.jupyter.org/github/luonglearnstocode/math-for-machine-learning/blob/master/linear-algebra/ReflectingBear.ipynb)
+	* [Page Rank](http://nbviewer.jupyter.org/github/luonglearnstocode/math-for-machine-learning/blob/master/linear-algebra/PageRank.ipynb)
 * Course 2: [Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning)
-	* Backpropagation
-	* Fitting the distribution of height data
+	* [Backpropagation](http://nbviewer.jupyter.org/github/luonglearnstocode/math-for-machine-learning/blob/master/multivariate-calculus/Backpropagation.ipynb)
+	* [Fitting the distribution of height data](http://nbviewer.jupyter.org/github/luonglearnstocode/math-for-machine-learning/blob/master/multivariate-calculus/Fitting-the-distribution-of-heights-data.ipynb)
 * Course 3: [PCA](https://www.coursera.org/learn/pca-machine-learning)
+	* [Mean/covariance of a dataset + effect of a linear transformation](http://nbviewer.jupyter.org/github/luonglearnstocode/math-for-machine-learning/blob/master/pca/week1.ipynb)
+	* [Inner products and angles](http://nbviewer.jupyter.org/github/luonglearnstocode/math-for-machine-learning/blob/master/pca/week2.ipynb)
+	* [Orthogonal projections](http://nbviewer.jupyter.org/github/luonglearnstocode/math-for-machine-learning/blob/master/pca/week3.ipynb)
+	* [PCA](http://nbviewer.jupyter.org/github/luonglearnstocode/math-for-machine-learning/blob/master/pca/week4.ipynb)
